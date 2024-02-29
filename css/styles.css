@@ -287,11 +287,11 @@ p {
 .social-list {
   margin-top: 8px;
   padding: 0 16px;
+  gap: 24px;
 }
 
 .social-list-item-team {
   justify-content: center;
-  gap: 24px;
 }
 
 .social-list-link-team {
