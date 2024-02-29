@@ -289,7 +289,7 @@ p {
   padding: 0 16px;
 }
 
-.social-list-item {
+.social-list-item-team {
   justify-content: center;
   gap: 24px;
 }
@@ -396,8 +396,9 @@ p {
   align-items: baseline;
 }
 
-.container.logo {
+.container-logo {
   margin-right: 120px;
+  max-width: 264px;
 }
 
 .logo.down {
@@ -414,7 +415,7 @@ p {
   max-width: 264px;
 }
 
-.container.social {
+.container-social {
   display: column;
   height: 80px;
   width: 208px;
@@ -431,6 +432,7 @@ p {
 .social-list {
   display: flex;
   gap: 16px;
+  justify-content: center;
 }
 
 .social-list-link {
