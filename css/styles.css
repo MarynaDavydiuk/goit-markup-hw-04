@@ -284,7 +284,7 @@ p {
   text-align: center;
 }
 
-.social-list {
+.social-list.team-social {
   margin-top: 8px;
   padding: 0 16px;
   gap: 24px;
